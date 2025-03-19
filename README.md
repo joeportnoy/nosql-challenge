@@ -70,21 +70,6 @@ nosql-challenge/
    - Sort by count in descending order.
    - Display the top 10 Local Authorities.
 
-## Requirements
-
-### Part 1: Database and Setup (15 points)
-- Import data and confirm setup (MongoDB connection, collection creation, sample document retrieval).
-
-### Part 2: Update Database (20 points)
-- Add new restaurant.
-- Update `BusinessTypeID`.
-- Remove Dover establishments.
-- Convert data types.
-
-### Part 3: Exploratory Analysis (55 points)
-- Answer key questions using MongoDB queries and Pandas DataFrames.
-- Correctly implement sorting, filtering, and aggregation.
-
 ## Conclusion
 
 This project provides an in-depth analysis of food hygiene ratings using NoSQL databases. By successfully setting up a MongoDB database, modifying the dataset, and conducting exploratory analysis, we can extract valuable insights for *Eat Safe, Love*. The ability to efficiently query and process data helps identify establishments that meet high hygiene standards and pinpoint areas of concern. Future improvements could include incorporating additional data sources or implementing real-time updates for ongoing analysis.
